@@ -11,6 +11,16 @@ For more infos about Caesar Cipher's functioning, click
 _Gui window screenshot:_
 ![Gui window screenshot](images/screen_gridLayout.png)
 
+## Features
+
+- Encrypt plain text with your own custom key.
+
+- Encrypt plain text with a randomly generated key.
+
+- Decrypt encrypted text with given key.
+
+- Very long text management, text boxes allow vertical scrolling.
+
 ## Contact me
 
 If you have any suggestion/problem/question please email me or open a Github issue.
